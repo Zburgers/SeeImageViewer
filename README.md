@@ -28,3 +28,6 @@ cat redbull.ppm | ./iv
 ```
 
 - Only PPM format is supported.
+
+## Demo                                                                                                        │
+![Demo](Demo.png)
